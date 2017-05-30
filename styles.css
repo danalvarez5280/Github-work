@@ -1,6 +1,6 @@
 body {
   background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Game_of_Thrones_Season_7.jpg/220px-Game_of_Thrones_Season_7.jpg);
-
   background-repeat: round;
   background-size: cover;
+  background-position: center;
 }
